@@ -45,7 +45,7 @@ To use KARMA, just run the shell script with the topic as the first argument (do
 ./run.sh "AlbertEinstein"
 # see output image in ./visualization/graph_output.png
 # bat visualization/graph_output.png
-# ```
+```
 
 
 
