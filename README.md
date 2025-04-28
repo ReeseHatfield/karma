@@ -47,9 +47,8 @@ To use KARMA, just run the shell script with the topic as the first argument (do
 # bat visualization/graph_output.png
 ```
 
-
-
 ## Prerequisites
+
 
 | Requirement | Purpose                          |
 |:------------|:---------------------------------|
@@ -57,7 +56,12 @@ To use KARMA, just run the shell script with the topic as the first argument (do
 | Cargo       | Dependency and build manager     |
 | Python      | Visualization language           |
 | Pip         | Visualization dependency manager |
+| Ollama      | LLM backend                      |
 
+```bash
+# Install mistral with Ollama
+ollama pull mistral
+```
 
 
 ## Docs
