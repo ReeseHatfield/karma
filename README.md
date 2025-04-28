@@ -18,7 +18,7 @@ KARMA is a large language model (LLM) internal knowledge-based fact crawler. KAR
 ## Examples
 <p align="center">
   <a href="https://github.com/reesehatfield/karma">
-    <img src="./docs/img/wsu.png" alt="WSU KG" width="400" height="370">
+    <img src="./docs/img/wsu.png" alt="WSU KG" width="550" height="370">
   </a>
 </p>
 
@@ -29,7 +29,7 @@ KARMA is a large language model (LLM) internal knowledge-based fact crawler. KAR
 <!-------------------->
 <p align="center">
   <a href="https://github.com/reesehatfield/karma">
-    <img src="./docs/img/einstein.png" alt="WSU KG" width="400" height="370">
+    <img src="./docs/img/einstein.png" alt="WSU KG" width="550" height="370">
   </a>
 </p>
 
