@@ -1,0 +1,1043 @@
+Starting topic was MonsterEnergy
+
+ Topic ID: Q544293
+
+Retrieved Wikidata Triples:
+
+- http://www.wikidata.org/entity/Q544293 → http://www.wikidata.org/prop/direct/P495 → http://www.wikidata.org/entity/Q30
+- http://www.wikidata.org/entity/Q544293 → http://www.wikidata.org/prop/direct/P279 → http://www.wikidata.org/entity/Q215754
+- http://www.wikidata.org/entity/Q544293 → http://www.wikidata.org/prop/direct/P159 → http://www.wikidata.org/entity/Q494707
+- http://www.wikidata.org/entity/Q544293 → http://www.wikidata.org/prop/direct/P176 → http://www.wikidata.org/entity/Q1945295
+- http://www.wikidata.org/entity/Q544293 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q114392939
+Finished creating "mistral"
+Skipping date-like object: 2002
+
+Searching Entities for Generated Triples:
+
+Searching for object: Hansen Natural
+Found search result Some("Q1945295")
+adding new object to potential pool Q1945295
+VIS: Potential new topic: TopicPath { from_subject: "Monster Energy", via_predicate: "is a product of", to_object_label: "Hansen Natural", to_object_id: "Q1945295" }
+- Monster Energy → is a product of → Hansen Natural
+Searching for object: Energy Drinks
+Found search result Some("Q63534552")
+adding new object to potential pool Q63534552
+VIS: Potential new topic: TopicPath { from_subject: "Monster Energy", via_predicate: "belongs to the category of", to_object_label: "Energy Drinks", to_object_id: "Q63534552" }
+- Monster Energy → belongs to the category of → Energy Drinks
+Searching for object: Corona, California, USA
+Found search result None
+- Monster Energy → headquarters located in → Corona, California, USA
+Searching for object: Coca-Cola Company (since 2015)
+Found search result None
+- Monster Energy → owned by → Coca-Cola Company (since 2015)
+Searching for object: caffeine and sugar
+Found search result Some("Q30557836")
+adding new object to potential pool Q30557836
+VIS: Potential new topic: TopicPath { from_subject: "Monster Energy", via_predicate: "contains high levels of", to_object_label: "caffeine and sugar", to_object_id: "Q30557836" }
+- Monster Energy → contains high levels of → caffeine and sugar
+Searching for object: North America, Europe, Asia, Oceania, and Latin America.
+Found search result None
+- Monster Energy → distribution worldwide includes regions such as → North America, Europe, Asia, Oceania, and Latin America.
+Searching for object: Monster Energy drinks and Monster Energy Superman energy supplements.
+Found search result None
+- Monster Energy → famous for its line of → Monster Energy drinks and Monster Energy Superman energy supplements.
+Searching for object: Monster Energy NASCAR Cup Series, Monster Energy AMA Supercross, Monster Jam, and the UFC (Ultimate Fighting Championship).
+Found search result None
+- Monster Energy → sponsors various sports events including → Monster Energy NASCAR Cup Series, Monster Energy AMA Supercross, Monster Jam, and the UFC (Ultimate Fighting Championship).
+
+Triple Analysis Summary
+Total triples: 8
+Found Subjects:   8 (100.0%)
+Found Predicates: 1 (12.5%)
+Found Objects:    3 (37.5%)
+VIS chosen topic: Some(("Q63534552", TopicPath { from_subject: "Monster Energy", via_predicate: "belongs to the category of", to_object_label: "Energy Drinks", to_object_id: "Q63534552" }))
+
+Switching to new topic: Q63534552 (Energy Drinks)
+
+Reasoning Path:Monster Energy → belongs to the category of → Energy Drinks
+
+ Topic ID: Q10860328
+
+Retrieved Wikidata Triples:
+
+- http://www.wikidata.org/entity/Q10860328 → http://www.wikidata.org/prop/direct/P279 → http://www.wikidata.org/entity/Q40050
+Finished creating "mistral"
+
+Searching Entities for Generated Triples:
+
+Searching for object: Caffeine
+Found search result Some("Q60235")
+adding new object to potential pool Q60235
+VIS: Potential new topic: TopicPath { from_subject: "Energy Drink", via_predicate: "contains as ingredient", to_object_label: "Caffeine", to_object_id: "Q60235" }
+- Energy Drink → contains as ingredient → Caffeine
+Searching for object: Increased energy and alertness
+Found search result None
+- Energy Drink → designed to provide → Increased energy and alertness
+Searching for object: Individuals seeking a quick energy boost
+Found search result None
+- Energy Drink → typically consumed by → Individuals seeking a quick energy boost
+Searching for object: Taurine, B-vitamins, and sugars
+Found search result None
+- Energy Drink → often contains additives like → Taurine, B-vitamins, and sugars
+Searching for object: Caffeine and sugar
+Found search result Some("Q30557836")
+adding new object to potential pool Q30557836
+VIS: Potential new topic: TopicPath { from_subject: "Energy Drink", via_predicate: "not recommended for regular consumption due to its high levels of", to_object_label: "Caffeine and sugar", to_object_id: "Q30557836" }
+- Energy Drink → not recommended for regular consumption due to its high levels of → Caffeine and sugar
+Searching for object: Carbonated, non-carbonated, and powdered mixes
+Found search result None
+- Energy Drink → available in various forms including → Carbonated, non-carbonated, and powdered mixes
+Searching for object: Food and Drug Administration (FDA) or European Food Safety Authority (EFSA) depending on the region
+Found search result None
+- Energy Drink → regulated by agencies like → Food and Drug Administration (FDA) or European Food Safety Authority (EFSA) depending on the region
+
+Triple Analysis Summary
+Total triples: 7
+Found Subjects:   7 (100.0%)
+Found Predicates: 0 (0.0%)
+Found Objects:    2 (28.6%)
+VIS chosen topic: Some(("Q30557836", TopicPath { from_subject: "Energy Drink", via_predicate: "not recommended for regular consumption due to its high levels of", to_object_label: "Caffeine and sugar", to_object_id: "Q30557836" }))
+
+Switching to new topic: Q30557836 (Caffeine and sugar)
+
+Reasoning Path:Energy Drink → not recommended for regular consumption due to its high levels of → Caffeine and sugar
+
+ Topic ID: Q71445704
+
+Retrieved Wikidata Triples:
+
+- http://www.wikidata.org/entity/Q71445704 → http://www.wikidata.org/prop/direct/P407 → http://www.wikidata.org/entity/Q1860
+- http://www.wikidata.org/entity/Q71445704 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q13442814
+- http://www.wikidata.org/entity/Q71445704 → http://www.wikidata.org/prop/direct/P1433 → http://www.wikidata.org/entity/Q7167029
+Finished creating "mistral"
+
+Searching Entities for Generated Triples:
+
+Searching for object: Coffee beans, Tea leaves, Cacao beans, Theobroma cacao, Kola nuts, Guarana berries
+Found search result None
+- Caffeine → is a compound found in → Coffee beans, Tea leaves, Cacao beans, Theobroma cacao, Kola nuts, Guarana berries
+Searching for object: Human beings (humans consume caffeine as a psychoactive drug)
+Found search result None
+- Caffeine → stimulates the central nervous system and heart → Human beings (humans consume caffeine as a psychoactive drug)
+Searching for object: Sucrose, Glucose, Fructose, Lactose
+Found search result None
+- Sugar → is a type of carbohydrate → Sucrose, Glucose, Fructose, Lactose
+Searching for object: All living organisms, primarily through cellular respiration in eukaryotes and glycolysis in prokaryotes
+Found search result None
+- Sugar → provides energy for cellular functions → All living organisms, primarily through cellular respiration in eukaryotes and glycolysis in prokaryotes
+Searching for object: Foods such as fruit, vegetables, grains, dairy products, sweets, and sugar-sweetened beverages
+Found search result None
+- Human beings → consume sugar primarily from → Foods such as fruit, vegetables, grains, dairy products, sweets, and sugar-sweetened beverages
+Searching for object: Human beings
+Found search result Some("Q15978631")
+adding new object to potential pool Q15978631
+VIS: Potential new topic: TopicPath { from_subject: "Sugar", via_predicate: "excess consumption may lead to health problems like obesity, diabetes, and tooth decay", to_object_label: "Human beings", to_object_id: "Q15978631" }
+- Sugar → excess consumption may lead to health problems like obesity, diabetes, and tooth decay → Human beings
+Searching for object: Human beings (caffeine's effects vary by individual)
+Found search result None
+- Caffeine → may help in alertness and improving concentration but can also cause insomnia, restlessness, and rapid heartbeat → Human beings (caffeine's effects vary by individual)
+
+Triple Analysis Summary
+Total triples: 7
+Found Subjects:   7 (100.0%)
+Found Predicates: 0 (0.0%)
+Found Objects:    1 (14.3%)
+VIS chosen topic: Some(("Q15978631", TopicPath { from_subject: "Sugar", via_predicate: "excess consumption may lead to health problems like obesity, diabetes, and tooth decay", to_object_label: "Human beings", to_object_id: "Q15978631" }))
+
+Switching to new topic: Q15978631 (Human beings)
+
+Reasoning Path:Sugar → excess consumption may lead to health problems like obesity, diabetes, and tooth decay → Human beings
+
+ Topic ID: Q2472714
+
+Retrieved Wikidata Triples:
+
+- http://www.wikidata.org/entity/Q2472714 → http://www.wikidata.org/prop/direct/P495 → http://www.wikidata.org/entity/Q55
+- http://www.wikidata.org/entity/Q2472714 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q215380
+Finished creating "mistral"
+
+Searching Entities for Generated Triples:
+
+Searching for object: Cells
+Found search result Some("Q7868")
+adding new object to potential pool Q7868
+VIS: Potential new topic: TopicPath { from_subject: "Human Beings", via_predicate: "are composed of", to_object_label: "Cells", to_object_id: "Q7868" }
+- Human Beings → are composed of → Cells
+Searching for object: Heart
+Found search result Some("Q1072")
+adding new object to potential pool Q1072
+VIS: Potential new topic: TopicPath { from_subject: "Human Beings", via_predicate: "contain organs such as", to_object_label: "Heart", to_object_id: "Q1072" }
+- Human Beings → contain organs such as → Heart
+Searching for object: 70-80 years
+Found search result None
+- Human Beings → have a typical lifespan ranging from → 70-80 years
+Searching for object: Touch, Taste, Smell, Hearing, and Sight
+Found search result None
+- Human Beings → possess five major senses including → Touch, Taste, Smell, Hearing, and Sight
+Searching for object: English, Spanish, Mandarin, etc.
+Found search result None
+- Human Beings → use language for communication such as → English, Spanish, Mandarin, etc.
+Searching for object: Africa (approximately 300,000 years ago)
+Found search result None
+- Human Beings → evolved in → Africa (approximately 300,000 years ago)
+Searching for object: Homo sapiens
+Found search result Some("Q15978631")
+adding new object to potential pool Q15978631
+VIS: Potential new topic: TopicPath { from_subject: "Human Beings", via_predicate: "share approximately 99% of DNA with each other", to_object_label: "Homo sapiens", to_object_id: "Q15978631" }
+- Human Beings → share approximately 99% of DNA with each other → Homo sapiens
+Searching for object: Hammers, Cars, Computers, etc.
+Found search result None
+- Human Beings → use tools for survival and creation such as → Hammers, Cars, Computers, etc.
+
+Triple Analysis Summary
+Total triples: 8
+Found Subjects:   8 (100.0%)
+Found Predicates: 1 (12.5%)
+Found Objects:    3 (37.5%)
+VIS chosen topic: Some(("Q1072", TopicPath { from_subject: "Human Beings", via_predicate: "contain organs such as", to_object_label: "Heart", to_object_id: "Q1072" }))
+
+Switching to new topic: Q1072 (Heart)
+
+Reasoning Path:Human Beings → contain organs such as → Heart
+
+ Topic ID: Q1072
+
+Retrieved Wikidata Triples:
+
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P703 → http://www.wikidata.org/entity/Q729
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P1889 → http://www.wikidata.org/entity/Q826930
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P366 → http://www.wikidata.org/entity/Q14852003
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P279 → http://www.wikidata.org/entity/Q24060765
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P2789 → http://www.wikidata.org/entity/Q9655
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q103812529
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q112826905
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P2286 → http://www.wikidata.org/entity/Q429285
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P1343 → http://www.wikidata.org/entity/Q602358
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P2789 → http://www.wikidata.org/entity/Q9609
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P2289 → http://www.wikidata.org/entity/Q736995
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P2286 → http://www.wikidata.org/entity/Q744391
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P361 → http://www.wikidata.org/entity/Q11068
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P2579 → http://www.wikidata.org/entity/Q10379
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P1889 → http://www.wikidata.org/entity/Q2419844
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P527 → http://www.wikidata.org/entity/Q3368336
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P3189 → http://www.wikidata.org/entity/Q5038337
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P4733 → http://www.wikidata.org/entity/Q967103
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P927 → http://www.wikidata.org/entity/Q994554
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P1343 → http://www.wikidata.org/entity/Q1970746
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P1343 → http://www.wikidata.org/entity/Q867541
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P527 → http://www.wikidata.org/entity/Q84133
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P1889 → http://www.wikidata.org/entity/Q118112763
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P5008 → http://www.wikidata.org/entity/Q5460604
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P910 → http://www.wikidata.org/entity/Q6138842
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P5008 → http://www.wikidata.org/entity/Q6173448
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P1343 → http://www.wikidata.org/entity/Q19180675
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P1343 → http://www.wikidata.org/entity/Q19558994
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P1552 → http://www.wikidata.org/entity/Q37726042
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P5008 → http://www.wikidata.org/entity/Q87748614
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P1424 → http://www.wikidata.org/entity/Q6418161
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P4843 → http://www.wikidata.org/entity/Q14819288
+- http://www.wikidata.org/entity/Q1072 → http://www.wikidata.org/prop/direct/P1343 → http://www.wikidata.org/entity/Q16082057
+Finished creating "mistral"
+
+Searching Entities for Generated Triples:
+
+Searching for object: Human
+Found search result Some("Q5")
+adding new object to potential pool Q5
+VIS: Potential new topic: TopicPath { from_subject: "Heart", via_predicate: "organ of the body", to_object_label: "Human", to_object_id: "Q5" }
+- Heart → organ of the body → Human
+Searching for object: Blood circulation
+Found search result Some("Q14852003")
+adding new object to potential pool Q14852003
+VIS: Potential new topic: TopicPath { from_subject: "Heart", via_predicate: "responsible for", to_object_label: "Blood circulation", to_object_id: "Q14852003" }
+- Heart → responsible for → Blood circulation
+Searching for object: Left atrium, Right atrium, Left ventricle, Right ventricle
+Found search result None
+- Heart → divided into four chambers → Left atrium, Right atrium, Left ventricle, Right ventricle
+Searching for object: Contraction and relaxation of the heart muscle
+Found search result None
+- Heartbeat → produced by → Contraction and relaxation of the heart muscle
+Searching for object: Preventing backflow of blood
+Found search result None
+- Heart valve → primary function → Preventing backflow of blood
+Searching for object: 60-100 beats per minute
+Found search result None
+- Heart rate → average in a resting adult → 60-100 beats per minute
+Searching for object: Hearts (arteries carry oxygenated blood away from the heart, veins carry deoxygenated blood towards the heart)
+Found search result None
+- Blood vessels → connected to → Hearts (arteries carry oxygenated blood away from the heart, veins carry deoxygenated blood towards the heart)
+Searching for object: Heart muscle
+Found search result Some("Q10334846")
+adding new object to potential pool Q10334846
+VIS: Potential new topic: TopicPath { from_subject: "Coronary arteries", via_predicate: "supply blood to", to_object_label: "Heart muscle", to_object_id: "Q10334846" }
+- Coronary arteries → supply blood to → Heart muscle
+Searching for object: Yes
+Found search result Some("Q184386")
+adding new object to potential pool Q184386
+VIS: Potential new topic: TopicPath { from_subject: "Heart disease", via_predicate: "major cause of death worldwide", to_object_label: "Yes", to_object_id: "Q184386" }
+- Heart disease → major cause of death worldwide → Yes
+Searching for object: Lymphatic system, Immune system
+Found search result None
+- Cardiovascular system → interconnected with → Lymphatic system, Immune system
+
+Triple Analysis Summary
+Total triples: 10
+Found Subjects:   10 (100.0%)
+Found Predicates: 4 (40.0%)
+Found Objects:    4 (40.0%)
+VIS chosen topic: Some(("Q14852003", TopicPath { from_subject: "Heart", via_predicate: "responsible for", to_object_label: "Blood circulation", to_object_id: "Q14852003" }))
+
+Switching to new topic: Q14852003 (Blood circulation)
+
+Reasoning Path:Heart → responsible for → Blood circulation
+
+ Topic ID: Q14852003
+
+Retrieved Wikidata Triples:
+
+- http://www.wikidata.org/entity/Q14852003 → http://www.wikidata.org/prop/direct/P12913 → http://www.wikidata.org/entity/Q7873
+- http://www.wikidata.org/entity/Q14852003 → http://www.wikidata.org/prop/direct/P279 → http://www.wikidata.org/entity/Q1435575
+- http://www.wikidata.org/entity/Q14852003 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q2996394
+- http://www.wikidata.org/entity/Q14852003 → http://www.wikidata.org/prop/direct/P279 → http://www.wikidata.org/entity/Q21172374
+- http://www.wikidata.org/entity/Q14852003 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q30892994
+- http://www.wikidata.org/entity/Q14852003 → http://www.wikidata.org/prop/direct/P1343 → http://www.wikidata.org/entity/Q3181656
+- http://www.wikidata.org/entity/Q14852003 → http://www.wikidata.org/prop/direct/P927 → http://www.wikidata.org/entity/Q11068
+- http://www.wikidata.org/entity/Q14852003 → http://www.wikidata.org/prop/direct/P1343 → http://www.wikidata.org/entity/Q124737604
+- http://www.wikidata.org/entity/Q14852003 → http://www.wikidata.org/prop/direct/P1343 → http://www.wikidata.org/entity/Q602358
+Finished creating "mistral"
+
+Searching Entities for Generated Triples:
+
+Searching for object: Aorta
+Found search result Some("Q101004")
+adding new object to potential pool Q101004
+VIS: Potential new topic: TopicPath { from_subject: "Heart", via_predicate: "pumps blood", to_object_label: "Aorta", to_object_id: "Q101004" }
+- Heart → pumps blood → Aorta
+Searching for object: Body tissues
+Found search result None
+- Aorta → carries oxygenated blood → Body tissues
+Searching for object: Right Atrium
+Found search result Some("Q1652353")
+adding new object to potential pool Q1652353
+VIS: Potential new topic: TopicPath { from_subject: "Veins", via_predicate: "return deoxygenated blood", to_object_label: "Right Atrium", to_object_id: "Q1652353" }
+- Veins → return deoxygenated blood → Right Atrium
+Searching for object: Tissue cells
+Found search result Some("Q29547613")
+adding new object to potential pool Q29547613
+VIS: Potential new topic: TopicPath { from_subject: "Capillaries", via_predicate: "exchange nutrients and waste", to_object_label: "Tissue cells", to_object_id: "Q29547613" }
+- Capillaries → exchange nutrients and waste → Tissue cells
+Searching for object: Lungs
+Found search result Some("Q7886")
+adding new object to potential pool Q7886
+VIS: Potential new topic: TopicPath { from_subject: "Pulmonary Artery", via_predicate: "carries deoxygenated blood", to_object_label: "Lungs", to_object_id: "Q7886" }
+- Pulmonary Artery → carries deoxygenated blood → Lungs
+Searching for object: Left Atrium
+Found search result Some("Q1989441")
+adding new object to potential pool Q1989441
+VIS: Potential new topic: TopicPath { from_subject: "Pulmonary Veins", via_predicate: "carry oxygenated blood", to_object_label: "Left Atrium", to_object_id: "Q1989441" }
+- Pulmonary Veins → carry oxygenated blood → Left Atrium
+Searching for object: Blood cells
+Found search result Some("Q27709409")
+adding new object to potential pool Q27709409
+VIS: Potential new topic: TopicPath { from_subject: "Oxygen", via_predicate: "essential for", to_object_label: "Blood cells", to_object_id: "Q27709409" }
+- Oxygen → essential for → Blood cells
+Searching for object: Body cells
+Found search result Some("Q113257612")
+adding new object to potential pool Q113257612
+VIS: Potential new topic: TopicPath { from_subject: "Carbon Dioxide", via_predicate: "waste product", to_object_label: "Body cells", to_object_id: "Q113257612" }
+- Carbon Dioxide → waste product → Body cells
+Searching for object: Organs and tissues
+Found search result Some("Q46237182")
+adding new object to potential pool Q46237182
+VIS: Potential new topic: TopicPath { from_subject: "Arteries", via_predicate: "supply blood", to_object_label: "Organs and tissues", to_object_id: "Q46237182" }
+- Arteries → supply blood → Organs and tissues
+Searching for object: Veins
+Found search result Some("Q9609")
+adding new object to potential pool Q9609
+VIS: Potential new topic: TopicPath { from_subject: "Venules", via_predicate: "collect blood", to_object_label: "Veins", to_object_id: "Q9609" }
+- Venules → collect blood → Veins
+
+Triple Analysis Summary
+Total triples: 10
+Found Subjects:   10 (100.0%)
+Found Predicates: 2 (20.0%)
+Found Objects:    9 (90.0%)
+VIS chosen topic: Some(("Q27709409", TopicPath { from_subject: "Oxygen", via_predicate: "essential for", to_object_label: "Blood cells", to_object_id: "Q27709409" }))
+
+Switching to new topic: Q27709409 (Blood cells)
+
+Reasoning Path:Oxygen → essential for → Blood cells
+
+ Topic ID: Q27709409
+
+Retrieved Wikidata Triples:
+
+- http://www.wikidata.org/entity/Q27709409 → http://www.wikidata.org/prop/direct/P495 → http://www.wikidata.org/entity/Q30
+- http://www.wikidata.org/entity/Q27709409 → http://www.wikidata.org/prop/direct/P407 → http://www.wikidata.org/entity/Q1860
+- http://www.wikidata.org/entity/Q27709409 → http://www.wikidata.org/prop/direct/P8875 → http://www.wikidata.org/entity/Q371467
+- http://www.wikidata.org/entity/Q27709409 → http://www.wikidata.org/prop/direct/P123 → http://www.wikidata.org/entity/Q2076913
+- http://www.wikidata.org/entity/Q27709409 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q5633421
+Finished creating "mistral"
+
+Searching Entities for Generated Triples:
+
+Searching for object: Hemoglobin
+Found search result Some("Q15752077")
+adding new object to potential pool Q15752077
+VIS: Potential new topic: TopicPath { from_subject: "Red blood cell", via_predicate: "composed of", to_object_label: "Hemoglobin", to_object_id: "Q15752077" }
+- Red blood cell → composed of → Hemoglobin
+Searching for object: Immune response and defense against infection
+Found search result None
+- White blood cell → function is → Immune response and defense against infection
+Searching for object: Blood clotting and hemostasis
+Found search result Some("Q73523887")
+adding new object to potential pool Q73523887
+VIS: Potential new topic: TopicPath { from_subject: "Platelet", via_predicate: "function is", to_object_label: "Blood clotting and hemostasis", to_object_id: "Q73523887" }
+- Platelet → function is → Blood clotting and hemostasis
+Searching for object: Bloodstream (vasculature)
+Found search result None
+- Blood cells → found in → Bloodstream (vasculature)
+Searching for object: Biconcave disc
+Found search result Some("Q25099975")
+adding new object to potential pool Q25099975
+VIS: Potential new topic: TopicPath { from_subject: "Red blood cell", via_predicate: "shape is", to_object_label: "Biconcave disc", to_object_id: "Q25099975" }
+- Red blood cell → shape is → Biconcave disc
+Searching for object: Neutrophil, Lymphocyte, Monocyte, Eosinophil, Basophil
+Found search result None
+- White blood cell → subtypes include → Neutrophil, Lymphocyte, Monocyte, Eosinophil, Basophil
+Searching for object: Approximately 2-3 micrometers in diameter
+Found search result None
+- Platelet → size is → Approximately 2-3 micrometers in diameter
+Searching for object: Bone marrow
+Found search result Some("Q546523")
+adding new object to potential pool Q546523
+VIS: Potential new topic: TopicPath { from_subject: "Blood cells", via_predicate: "produced in", to_object_label: "Bone marrow", to_object_id: "Q546523" }
+- Blood cells → produced in → Bone marrow
+Searching for object: Oxygen and carbon dioxide
+Found search result Some("Q51516088")
+adding new object to potential pool Q51516088
+VIS: Potential new topic: TopicPath { from_subject: "Hemoglobin", via_predicate: "transport function is", to_object_label: "Oxygen and carbon dioxide", to_object_id: "Q51516088" }
+- Hemoglobin → transport function is → Oxygen and carbon dioxide
+Searching for object: Nucleus
+Found search result Some("Q40260")
+adding new object to potential pool Q40260
+VIS: Potential new topic: TopicPath { from_subject: "Mature red blood cell", via_predicate: "lacks", to_object_label: "Nucleus", to_object_id: "Q40260" }
+- Mature red blood cell → lacks → Nucleus
+
+Triple Analysis Summary
+Total triples: 10
+Found Subjects:   10 (100.0%)
+Found Predicates: 8 (80.0%)
+Found Objects:    6 (60.0%)
+VIS chosen topic: Some(("Q25099975", TopicPath { from_subject: "Red blood cell", via_predicate: "shape is", to_object_label: "Biconcave disc", to_object_id: "Q25099975" }))
+
+Switching to new topic: Q25099975 (Biconcave disc)
+
+Reasoning Path:Red blood cell → shape is → Biconcave disc
+
+ Topic ID: Q25099975
+
+Retrieved Wikidata Triples:
+
+- http://www.wikidata.org/entity/Q25099975 → http://www.wikidata.org/prop/direct/P279 → http://www.wikidata.org/entity/Q207961
+Finished creating "mistral"
+
+Searching Entities for Generated Triples:
+
+Searching for object: Convex double cup (or two hollow bowls connected by a thin waist)
+Found search result None
+- Biconcave Disc → Shaped like → Convex double cup (or two hollow bowls connected by a thin waist)
+Searching for object: Biconcave disc
+Found search result Some("Q25099975")
+adding new object to potential pool Q25099975
+VIS: Potential new topic: TopicPath { from_subject: "Human Erythrocyte", via_predicate: "Has the shape of", to_object_label: "Biconcave disc", to_object_id: "Q25099975" }
+- Human Erythrocyte → Has the shape of → Biconcave disc
+Searching for object: Red blood cells (Erythrocytes)
+Found search result None
+- Biconcave Disc → Typically found in → Red blood cells (Erythrocytes)
+Searching for object: Thin walls on both sides and large central area devoid of nucleus
+Found search result None
+- Biconcave Disc → Characterized by → Thin walls on both sides and large central area devoid of nucleus
+Searching for object: Biconcave disc (changes based on osmotic pressure difference)
+Found search result None
+- Osmosis → Affects the shape of → Biconcave disc (changes based on osmotic pressure difference)
+Searching for object: Biconcave disc in red blood cells
+Found search result None
+- Hemoglobin → Contained within → Biconcave disc in red blood cells
+Searching for object: Oxygenated hemoglobin in a biconcave disc (changes due to oxygen binding)
+Found search result None
+- Deoxygenated Hemoglobin → Has a different shape than → Oxygenated hemoglobin in a biconcave disc (changes due to oxygen binding)
+
+Triple Analysis Summary
+Total triples: 7
+Found Subjects:   7 (100.0%)
+Found Predicates: 3 (42.9%)
+Found Objects:    1 (14.3%)
+VIS chosen topic: Some(("Q25099975", TopicPath { from_subject: "Human Erythrocyte", via_predicate: "Has the shape of", to_object_label: "Biconcave disc", to_object_id: "Q25099975" }))
+
+Switching to new topic: Q25099975 (Biconcave disc)
+
+Reasoning Path:Human Erythrocyte → Has the shape of → Biconcave disc
+
+ Topic ID: Q25099975
+
+Retrieved Wikidata Triples:
+
+- http://www.wikidata.org/entity/Q25099975 → http://www.wikidata.org/prop/direct/P279 → http://www.wikidata.org/entity/Q207961
+Finished creating "mistral"
+
+Searching Entities for Generated Triples:
+
+Searching for object: Two concavities connected by a convex rim
+Found search result None
+- Biconcave Disc → Shaped like → Two concavities connected by a convex rim
+Searching for object: Red Blood Cell (Erythrocyte)
+Found search result None
+- Biconcave Disc → Example of → Red Blood Cell (Erythrocyte)
+Searching for object: Hemoglobin
+Found search result Some("Q15752077")
+adding new object to potential pool Q15752077
+VIS: Potential new topic: TopicPath { from_subject: "Red Blood Cell", via_predicate: "Contains", to_object_label: "Hemoglobin", to_object_id: "Q15752077" }
+- Red Blood Cell → Contains → Hemoglobin
+Searching for object: Human Body (Anatomy)
+Found search result None
+- Biconcave Disc → Found in → Human Body (Anatomy)
+Searching for object: Cardiovascular System
+Found search result Some("Q389735")
+adding new object to potential pool Q389735
+VIS: Potential new topic: TopicPath { from_subject: "Human Body", via_predicate: "Component of", to_object_label: "Cardiovascular System", to_object_id: "Q389735" }
+- Human Body → Component of → Cardiovascular System
+Searching for object: Transport oxygen and carbon dioxide
+Found search result None
+- Red Blood Cell → Primary function → Transport oxygen and carbon dioxide
+Searching for object: Efficient gas exchange in capillaries
+Found search result None
+- Biconcave Disc → Important for → Efficient gas exchange in capillaries
+Searching for object: White Blood Cells (Leukocytes)
+Found search result None
+- Biconcave Disc → Not present in → White Blood Cells (Leukocytes)
+
+Triple Analysis Summary
+Total triples: 8
+Found Subjects:   8 (100.0%)
+Found Predicates: 7 (87.5%)
+Found Objects:    2 (25.0%)
+VIS chosen topic: Some(("Q389735", TopicPath { from_subject: "Human Body", via_predicate: "Component of", to_object_label: "Cardiovascular System", to_object_id: "Q389735" }))
+
+Switching to new topic: Q389735 (Cardiovascular System)
+
+Reasoning Path:Human Body → Component of → Cardiovascular System
+
+ Topic ID: Q96699644
+
+Retrieved Wikidata Triples:
+
+- http://www.wikidata.org/entity/Q96699644 → http://www.wikidata.org/prop/direct/P495 → http://www.wikidata.org/entity/Q145
+- http://www.wikidata.org/entity/Q96699644 → http://www.wikidata.org/prop/direct/P407 → http://www.wikidata.org/entity/Q1860
+- http://www.wikidata.org/entity/Q96699644 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q5633421
+Finished creating "mistral"
+
+Searching Entities for Generated Triples:
+
+Searching for object: Cardiovascular System
+Found search result Some("Q389735")
+adding new object to potential pool Q389735
+VIS: Potential new topic: TopicPath { from_subject: "Heart", via_predicate: "pumps blood", to_object_label: "Cardiovascular System", to_object_id: "Q389735" }
+- Heart → pumps blood → Cardiovascular System
+Searching for object: Blood flow
+Found search result Some("Q4381136")
+adding new object to potential pool Q4381136
+VIS: Potential new topic: TopicPath { from_subject: "Cardiovascular System", via_predicate: "regulates", to_object_label: "Blood flow", to_object_id: "Q4381136" }
+- Cardiovascular System → regulates → Blood flow
+Searching for object: Cardiovascular System
+Found search result Some("Q389735")
+adding new object to potential pool Q389735
+VIS: Potential new topic: TopicPath { from_subject: "Aorta", via_predicate: "is a part of", to_object_label: "Cardiovascular System", to_object_id: "Q389735" }
+- Aorta → is a part of → Cardiovascular System
+Searching for object: Arteries and Veins
+Found search result Some("Q6308489")
+adding new object to potential pool Q6308489
+VIS: Potential new topic: TopicPath { from_subject: "Capillaries", via_predicate: "connect", to_object_label: "Arteries and Veins", to_object_id: "Q6308489" }
+- Capillaries → connect → Arteries and Veins
+Searching for object: Oxygen and Nutrients to Tissues
+Found search result None
+- Blood Vessels → transport → Oxygen and Nutrients to Tissues
+Searching for object: Backward flow of blood
+Found search result None
+- Heart Valves → prevent → Backward flow of blood
+Searching for object: The phase when the heart is contracting
+Found search result None
+- Systole → related to → The phase when the heart is contracting
+Searching for object: The phase when the heart is relaxing
+Found search result None
+- Diastole → related to → The phase when the heart is relaxing
+Searching for object: Blood Pressure
+Found search result Some("Q15754419")
+adding new object to potential pool Q15754419
+VIS: Potential new topic: TopicPath { from_subject: "Cardiovascular System", via_predicate: "maintains", to_object_label: "Blood Pressure", to_object_id: "Q15754419" }
+- Cardiovascular System → maintains → Blood Pressure
+Searching for object: Heart Muscles
+Found search result None
+- Coronary Circulation → supplies blood to → Heart Muscles
+
+Triple Analysis Summary
+Total triples: 10
+Found Subjects:   10 (100.0%)
+Found Predicates: 7 (70.0%)
+Found Objects:    5 (50.0%)
+VIS chosen topic: Some(("Q4381136", TopicPath { from_subject: "Cardiovascular System", via_predicate: "regulates", to_object_label: "Blood flow", to_object_id: "Q4381136" }))
+
+Switching to new topic: Q4381136 (Blood flow)
+
+Reasoning Path:Cardiovascular System → regulates → Blood flow
+
+ Topic ID: Q14663525
+
+Retrieved Wikidata Triples:
+
+- http://www.wikidata.org/entity/Q14663525 → http://www.wikidata.org/prop/direct/P495 → http://www.wikidata.org/entity/Q30
+- http://www.wikidata.org/entity/Q14663525 → http://www.wikidata.org/prop/direct/P495 → http://www.wikidata.org/entity/Q145
+- http://www.wikidata.org/entity/Q14663525 → http://www.wikidata.org/prop/direct/P123 → http://www.wikidata.org/entity/Q180419
+- http://www.wikidata.org/entity/Q14663525 → http://www.wikidata.org/prop/direct/P407 → http://www.wikidata.org/entity/Q1860
+- http://www.wikidata.org/entity/Q14663525 → http://www.wikidata.org/prop/direct/P8875 → http://www.wikidata.org/entity/Q371467
+- http://www.wikidata.org/entity/Q14663525 → http://www.wikidata.org/prop/direct/P921 → http://www.wikidata.org/entity/Q886843
+- http://www.wikidata.org/entity/Q14663525 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q5253501
+- http://www.wikidata.org/entity/Q14663525 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q5633421
+- http://www.wikidata.org/entity/Q14663525 → http://www.wikidata.org/prop/direct/P98 → http://www.wikidata.org/entity/Q94981400
+- http://www.wikidata.org/entity/Q14663525 → http://www.wikidata.org/prop/direct/P8875 → http://www.wikidata.org/entity/Q104047209
+Finished creating "mistral"
+
+Searching Entities for Generated Triples:
+
+Searching for object: Aorta
+Found search result Some("Q101004")
+adding new object to potential pool Q101004
+VIS: Potential new topic: TopicPath { from_subject: "Heart", via_predicate: "pumps blood", to_object_label: "Aorta", to_object_id: "Q101004" }
+- Heart → pumps blood → Aorta
+Searching for object: Body (systemic circulation)
+Found search result None
+- Aorta → carries oxygen-rich blood → Body (systemic circulation)
+Searching for object: Veins (superior and inferior vena cava)
+Found search result None
+- Right Atrium → receives deoxygenated blood from → Veins (superior and inferior vena cava)
+Searching for object: Pulmonary artery
+Found search result Some("Q206280")
+adding new object to potential pool Q206280
+VIS: Potential new topic: TopicPath { from_subject: "Left Ventricle", via_predicate: "pumps oxygen-poor blood", to_object_label: "Pulmonary artery", to_object_id: "Q206280" }
+- Left Ventricle → pumps oxygen-poor blood → Pulmonary artery
+Searching for object: Lungs
+Found search result Some("Q7886")
+adding new object to potential pool Q7886
+VIS: Potential new topic: TopicPath { from_subject: "Pulmonary Artery", via_predicate: "carries deoxygenated blood to", to_object_label: "Lungs", to_object_id: "Q7886" }
+- Pulmonary Artery → carries deoxygenated blood to → Lungs
+Searching for object: Bodily organs and tissues
+Found search result None
+- Capillaries → facilitate exchange of gases, nutrients, and waste between tissues and blood → Bodily organs and tissues
+Searching for object: Pulmonary veins
+Found search result Some("Q535352")
+adding new object to potential pool Q535352
+VIS: Potential new topic: TopicPath { from_subject: "Left Atrium", via_predicate: "receives oxygen-rich blood from", to_object_label: "Pulmonary veins", to_object_id: "Q535352" }
+- Left Atrium → receives oxygen-rich blood from → Pulmonary veins
+Searching for object: Chambers in the heart
+Found search result None
+- Heart valves → prevent backflow of blood → Chambers in the heart
+
+Triple Analysis Summary
+Total triples: 8
+Found Subjects:   8 (100.0%)
+Found Predicates: 0 (0.0%)
+Found Objects:    4 (50.0%)
+VIS chosen topic: Some(("Q206280", TopicPath { from_subject: "Left Ventricle", via_predicate: "pumps oxygen-poor blood", to_object_label: "Pulmonary artery", to_object_id: "Q206280" }))
+
+Switching to new topic: Q206280 (Pulmonary artery)
+
+Reasoning Path:Left Ventricle → pumps oxygen-poor blood → Pulmonary artery
+
+ Topic ID: Q206280
+
+Retrieved Wikidata Triples:
+
+- http://www.wikidata.org/entity/Q206280 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q9655
+- http://www.wikidata.org/entity/Q206280 → http://www.wikidata.org/prop/direct/P279 → http://www.wikidata.org/entity/Q9655
+- http://www.wikidata.org/entity/Q206280 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q210588
+- http://www.wikidata.org/entity/Q206280 → http://www.wikidata.org/prop/direct/P361 → http://www.wikidata.org/entity/Q494603
+- http://www.wikidata.org/entity/Q206280 → http://www.wikidata.org/prop/direct/P461 → http://www.wikidata.org/entity/Q535352
+- http://www.wikidata.org/entity/Q206280 → http://www.wikidata.org/prop/direct/P2505 → http://www.wikidata.org/entity/Q618363
+- http://www.wikidata.org/entity/Q206280 → http://www.wikidata.org/prop/direct/P527 → http://www.wikidata.org/entity/Q999472
+- http://www.wikidata.org/entity/Q206280 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q112826905
+- http://www.wikidata.org/entity/Q206280 → http://www.wikidata.org/prop/direct/P279 → http://www.wikidata.org/entity/Q112826975
+- http://www.wikidata.org/entity/Q206280 → http://www.wikidata.org/prop/direct/P361 → http://www.wikidata.org/entity/Q2223826
+- http://www.wikidata.org/entity/Q206280 → http://www.wikidata.org/prop/direct/P527 → http://www.wikidata.org/entity/Q2917413
+- http://www.wikidata.org/entity/Q206280 → http://www.wikidata.org/prop/direct/P361 → http://www.wikidata.org/entity/Q5600329
+- http://www.wikidata.org/entity/Q206280 → http://www.wikidata.org/prop/direct/P527 → http://www.wikidata.org/entity/Q8205462
+- http://www.wikidata.org/entity/Q206280 → http://www.wikidata.org/prop/direct/P1343 → http://www.wikidata.org/entity/Q19219752
+- http://www.wikidata.org/entity/Q206280 → http://www.wikidata.org/prop/direct/P1343 → http://www.wikidata.org/entity/Q19558994
+Finished creating "mistral"
+
+Searching Entities for Generated Triples:
+
+Searching for object: Right Ventricle of Heart
+Found search result None
+- Pulmonary Artery → Originates from → Right Ventricle of Heart
+Searching for object: Two Pulmonary Arteries (Right and Left)
+Found search result None
+- Pulmonary Artery → Divides into → Two Pulmonary Arteries (Right and Left)
+Searching for object: Lungs
+Found search result Some("Q7886")
+adding new object to potential pool Q7886
+VIS: Potential new topic: TopicPath { from_subject: "Pulmonary Artery", via_predicate: "Delivers Deoxygenated Blood to", to_object_label: "Lungs", to_object_id: "Q7886" }
+- Pulmonary Artery → Delivers Deoxygenated Blood to → Lungs
+Searching for object: True
+Found search result Some("Q16927530")
+adding new object to potential pool Q16927530
+VIS: Potential new topic: TopicPath { from_subject: "Pulmonary Artery", via_predicate: "Major Artery that carries Pulmonary Circulation", to_object_label: "True", to_object_id: "Q16927530" }
+- Pulmonary Artery → Major Artery that carries Pulmonary Circulation → True
+Searching for object: Right Lung
+Found search result Some("Q5938041")
+adding new object to potential pool Q5938041
+VIS: Potential new topic: TopicPath { from_subject: "Right Pulmonary Artery", via_predicate: "Supplies", to_object_label: "Right Lung", to_object_id: "Q5938041" }
+- Right Pulmonary Artery → Supplies → Right Lung
+Searching for object: Left Lung
+Found search result Some("Q18088285")
+adding new object to potential pool Q18088285
+VIS: Potential new topic: TopicPath { from_subject: "Left Pulmonary Artery", via_predicate: "Supplies", to_object_label: "Left Lung", to_object_id: "Q18088285" }
+- Left Pulmonary Artery → Supplies → Left Lung
+Searching for object: Pulmonary Capillaries in Lungs
+Found search result None
+- Pulmonary Arteries → Connected to → Pulmonary Capillaries in Lungs
+Searching for object: Pulmonary Veins
+Found search result Some("Q535352")
+adding new object to potential pool Q535352
+VIS: Potential new topic: TopicPath { from_subject: "Pulmonary Arteries", via_predicate: "Return Deoxygenated Blood to", to_object_label: "Pulmonary Veins", to_object_id: "Q535352" }
+- Pulmonary Arteries → Return Deoxygenated Blood to → Pulmonary Veins
+Searching for object: True
+Found search result Some("Q16927530")
+adding new object to potential pool Q16927530
+VIS: Potential new topic: TopicPath { from_subject: "Pulmonary Arteries", via_predicate: "Diameter is usually Smaller than Aorta", to_object_label: "True", to_object_id: "Q16927530" }
+- Pulmonary Arteries → Diameter is usually Smaller than Aorta → True
+
+Triple Analysis Summary
+Total triples: 9
+Found Subjects:   9 (100.0%)
+Found Predicates: 4 (44.4%)
+Found Objects:    6 (66.7%)
+VIS chosen topic: Some(("Q535352", TopicPath { from_subject: "Pulmonary Arteries", via_predicate: "Return Deoxygenated Blood to", to_object_label: "Pulmonary Veins", to_object_id: "Q535352" }))
+
+Switching to new topic: Q535352 (Pulmonary Veins)
+
+Reasoning Path:Pulmonary Arteries → Return Deoxygenated Blood to → Pulmonary Veins
+
+ Topic ID: Q535352
+
+Retrieved Wikidata Triples:
+
+- http://www.wikidata.org/entity/Q535352 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q9609
+- http://www.wikidata.org/entity/Q535352 → http://www.wikidata.org/prop/direct/P279 → http://www.wikidata.org/entity/Q9609
+- http://www.wikidata.org/entity/Q535352 → http://www.wikidata.org/prop/direct/P461 → http://www.wikidata.org/entity/Q206280
+- http://www.wikidata.org/entity/Q535352 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q210588
+- http://www.wikidata.org/entity/Q535352 → http://www.wikidata.org/prop/direct/P2289 → http://www.wikidata.org/entity/Q1989441
+- http://www.wikidata.org/entity/Q535352 → http://www.wikidata.org/prop/direct/P279 → http://www.wikidata.org/entity/Q112826975
+- http://www.wikidata.org/entity/Q535352 → http://www.wikidata.org/prop/direct/P1343 → http://www.wikidata.org/entity/Q19558994
+- http://www.wikidata.org/entity/Q535352 → http://www.wikidata.org/prop/direct/P2738 → http://www.wikidata.org/entity/Q23766486
+- http://www.wikidata.org/entity/Q535352 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q112826905
+Finished creating "mistral"
+
+Searching Entities for Generated Triples:
+
+Searching for object: Left Atrium (of the heart)
+Found search result None
+- Pulmonary Veins → originate from → Left Atrium (of the heart)
+Searching for object: Four (Left Superior Pulmonary Vein, Left Inferior Pulmonary Vein, Right Superior Pulmonary Vein, Right Inferior Pulmonary Vein)
+Found search result None
+- Pulmonary Veins → number of main veins → Four (Left Superior Pulmonary Vein, Left Inferior Pulmonary Vein, Right Superior Pulmonary Vein, Right Inferior Pulmonary Vein)
+Searching for object: True
+Found search result Some("Q16927530")
+adding new object to potential pool Q16927530
+VIS: Potential new topic: TopicPath { from_subject: "Pulmonary Veins", via_predicate: "carry oxygen-poor blood", to_object_label: "True", to_object_id: "Q16927530" }
+- Pulmonary Veins → carry oxygen-poor blood → True
+Searching for object: Pulmonary Artery (of the heart)
+Found search result None
+- Pulmonary Veins → drain into → Pulmonary Artery (of the heart)
+Searching for object: Lung (specifically, each vein drains from a specific lobe of the lung)
+Found search result None
+- Pulmonary Veins → each vein's pathway → Lung (specifically, each vein drains from a specific lobe of the lung)
+Searching for object: Pulmonary Veins
+Found search result Some("Q535352")
+adding new object to potential pool Q535352
+VIS: Potential new topic: TopicPath { from_subject: "Left Atrium (of the heart)", via_predicate: "receives blood from", to_object_label: "Pulmonary Veins", to_object_id: "Q535352" }
+- Left Atrium (of the heart) → receives blood from → Pulmonary Veins
+Searching for object: Lungs
+Found search result Some("Q7886")
+adding new object to potential pool Q7886
+VIS: Potential new topic: TopicPath { from_subject: "Pulmonary Artery", via_predicate: "distributes oxygen-rich blood to", to_object_label: "Lungs", to_object_id: "Q7886" }
+- Pulmonary Artery → distributes oxygen-rich blood to → Lungs
+Searching for object: Gas exchange between blood and air
+Found search result None
+- Lungs → function → Gas exchange between blood and air
+
+Triple Analysis Summary
+Total triples: 8
+Found Subjects:   7 (87.5%)
+Found Predicates: 1 (12.5%)
+Found Objects:    3 (37.5%)
+VIS chosen topic: Some(("Q7886", TopicPath { from_subject: "Pulmonary Artery", via_predicate: "distributes oxygen-rich blood to", to_object_label: "Lungs", to_object_id: "Q7886" }))
+
+Switching to new topic: Q7886 (Lungs)
+
+Reasoning Path:Pulmonary Artery → distributes oxygen-rich blood to → Lungs
+
+ Topic ID: Q7886
+
+Retrieved Wikidata Triples:
+
+- http://www.wikidata.org/entity/Q7886 → http://www.wikidata.org/prop/direct/P361 → http://www.wikidata.org/entity/Q7891
+- http://www.wikidata.org/entity/Q7886 → http://www.wikidata.org/prop/direct/P2286 → http://www.wikidata.org/entity/Q206280
+- http://www.wikidata.org/entity/Q7886 → http://www.wikidata.org/prop/direct/P2289 → http://www.wikidata.org/entity/Q535352
+- http://www.wikidata.org/entity/Q7886 → http://www.wikidata.org/prop/direct/P1343 → http://www.wikidata.org/entity/Q602358
+- http://www.wikidata.org/entity/Q7886 → http://www.wikidata.org/prop/direct/P279 → http://www.wikidata.org/entity/Q712378
+- http://www.wikidata.org/entity/Q7886 → http://www.wikidata.org/prop/direct/P279 → http://www.wikidata.org/entity/Q24060765
+- http://www.wikidata.org/entity/Q7886 → http://www.wikidata.org/prop/direct/P927 → http://www.wikidata.org/entity/Q994554
+- http://www.wikidata.org/entity/Q7886 → http://www.wikidata.org/prop/direct/P5008 → http://www.wikidata.org/entity/Q6173448
+- http://www.wikidata.org/entity/Q7886 → http://www.wikidata.org/prop/direct/P910 → http://www.wikidata.org/entity/Q7131304
+- http://www.wikidata.org/entity/Q7886 → http://www.wikidata.org/prop/direct/P1343 → http://www.wikidata.org/entity/Q20078554
+- http://www.wikidata.org/entity/Q7886 → http://www.wikidata.org/prop/direct/P1889 → http://www.wikidata.org/entity/Q103998540
+- http://www.wikidata.org/entity/Q7886 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q103812529
+- http://www.wikidata.org/entity/Q7886 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q112826905
+- http://www.wikidata.org/entity/Q7886 → http://www.wikidata.org/prop/direct/P2670 → http://www.wikidata.org/entity/Q7259536
+- http://www.wikidata.org/entity/Q7886 → http://www.wikidata.org/prop/direct/P4843 → http://www.wikidata.org/entity/Q14327711
+- http://www.wikidata.org/entity/Q7886 → http://www.wikidata.org/prop/direct/P1343 → http://www.wikidata.org/entity/Q19219752
+- http://www.wikidata.org/entity/Q7886 → http://www.wikidata.org/prop/direct/P1343 → http://www.wikidata.org/entity/Q19558994
+- http://www.wikidata.org/entity/Q7886 → http://www.wikidata.org/prop/direct/P279 → http://www.wikidata.org/entity/Q112826975
+Finished creating "mistral"
+
+Searching Entities for Generated Triples:
+
+Searching for object: Human Respiratory System
+Found search result Some("Q104525691")
+adding new object to potential pool Q104525691
+VIS: Potential new topic: TopicPath { from_subject: "Lungs", via_predicate: "are part of", to_object_label: "Human Respiratory System", to_object_id: "Q104525691" }
+- Lungs → are part of → Human Respiratory System
+Searching for object: Bronchial Tree
+Found search result Some("Q66517812")
+adding new object to potential pool Q66517812
+VIS: Potential new topic: TopicPath { from_subject: "Lung", via_predicate: "contains", to_object_label: "Bronchial Tree", to_object_id: "Q66517812" }
+- Lung → contains → Bronchial Tree
+Searching for object: Lungs
+Found search result Some("Q7886")
+adding new object to potential pool Q7886
+VIS: Potential new topic: TopicPath { from_subject: "Alveoli", via_predicate: "found in", to_object_label: "Lungs", to_object_id: "Q7886" }
+- Alveoli → found in → Lungs
+Searching for object: Gas Exchange (Oxygen and Carbon Dioxide)
+Found search result None
+- Lungs → main function is → Gas Exchange (Oxygen and Carbon Dioxide)
+Searching for object: Surfactant (a lipoprotein substance)
+Found search result None
+- Lungs → contain a significant amount of → Surfactant (a lipoprotein substance)
+Searching for object: Air
+Found search result Some("Q7391292")
+adding new object to potential pool Q7391292
+VIS: Potential new topic: TopicPath { from_subject: "Lungs", via_predicate: "primary gas within", to_object_label: "Air", to_object_id: "Q7391292" }
+- Lungs → primary gas within → Air
+Searching for object: Lower part of the Lungs
+Found search result None
+- Diaphragm → connects to → Lower part of the Lungs
+Searching for object: Irritation in the Lungs or Trachea
+Found search result None
+- Coughing reflex → triggered by → Irritation in the Lungs or Trachea
+
+Triple Analysis Summary
+Total triples: 8
+Found Subjects:   8 (100.0%)
+Found Predicates: 3 (37.5%)
+Found Objects:    4 (50.0%)
+VIS chosen topic: Some(("Q7391292", TopicPath { from_subject: "Lungs", via_predicate: "primary gas within", to_object_label: "Air", to_object_id: "Q7391292" }))
+
+Switching to new topic: Q7391292 (Air)
+
+Reasoning Path:Lungs → primary gas within → Air
+
+ Topic ID: Q7391292
+
+Retrieved Wikidata Triples:
+
+- http://www.wikidata.org/entity/Q7391292 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q79529
+- http://www.wikidata.org/entity/Q7391292 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q11432
+- http://www.wikidata.org/entity/Q7391292 → http://www.wikidata.org/prop/direct/P527 → http://www.wikidata.org/entity/Q696
+- http://www.wikidata.org/entity/Q7391292 → http://www.wikidata.org/prop/direct/P527 → http://www.wikidata.org/entity/Q1997
+- http://www.wikidata.org/entity/Q7391292 → http://www.wikidata.org/prop/direct/P279 → http://www.wikidata.org/entity/Q11432
+- http://www.wikidata.org/entity/Q7391292 → http://www.wikidata.org/prop/direct/P1552 → http://www.wikidata.org/entity/Q81809
+- http://www.wikidata.org/entity/Q7391292 → http://www.wikidata.org/prop/direct/P366 → http://www.wikidata.org/entity/Q133235
+- http://www.wikidata.org/entity/Q7391292 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q169336
+- http://www.wikidata.org/entity/Q7391292 → http://www.wikidata.org/prop/direct/P279 → http://www.wikidata.org/entity/Q169336
+- http://www.wikidata.org/entity/Q7391292 → http://www.wikidata.org/prop/direct/P1552 → http://www.wikidata.org/entity/Q180600
+- http://www.wikidata.org/entity/Q7391292 → http://www.wikidata.org/prop/direct/P1889 → http://www.wikidata.org/entity/Q2637489
+- http://www.wikidata.org/entity/Q7391292 → http://www.wikidata.org/prop/direct/P1889 → http://www.wikidata.org/entity/Q178122
+- http://www.wikidata.org/entity/Q7391292 → http://www.wikidata.org/prop/direct/P527 → http://www.wikidata.org/entity/Q190120
+- http://www.wikidata.org/entity/Q7391292 → http://www.wikidata.org/prop/direct/P1343 → http://www.wikidata.org/entity/Q602358
+- http://www.wikidata.org/entity/Q7391292 → http://www.wikidata.org/prop/direct/P1552 → http://www.wikidata.org/entity/Q1160424
+- http://www.wikidata.org/entity/Q7391292 → http://www.wikidata.org/prop/direct/P366 → http://www.wikidata.org/entity/Q1408137
+- http://www.wikidata.org/entity/Q7391292 → http://www.wikidata.org/prop/direct/P527 → http://www.wikidata.org/entity/Q2370426
+- http://www.wikidata.org/entity/Q7391292 → http://www.wikidata.org/prop/direct/P527 → http://www.wikidata.org/entity/Q5203615
+- http://www.wikidata.org/entity/Q7391292 → http://www.wikidata.org/prop/direct/P910 → http://www.wikidata.org/entity/Q7482252
+- http://www.wikidata.org/entity/Q7391292 → http://www.wikidata.org/prop/direct/P1343 → http://www.wikidata.org/entity/Q16082057
+- http://www.wikidata.org/entity/Q7391292 → http://www.wikidata.org/prop/direct/P1343 → http://www.wikidata.org/entity/Q19180675
+- http://www.wikidata.org/entity/Q7391292 → http://www.wikidata.org/prop/direct/P1343 → http://www.wikidata.org/entity/Q19219752
+Finished creating "mistral"
+
+Searching Entities for Generated Triples:
+
+Searching for object: Atmosphere
+Found search result Some("Q8104")
+adding new object to potential pool Q8104
+VIS: Potential new topic: TopicPath { from_subject: "Oxygen (O2)", via_predicate: "composes a large part of", to_object_label: "Atmosphere", to_object_id: "Q8104" }
+- Oxygen (O2) → composes a large part of → Atmosphere
+Searching for object: Atmosphere
+Found search result Some("Q8104")
+adding new object to potential pool Q8104
+VIS: Potential new topic: TopicPath { from_subject: "Nitrogen (N2)", via_predicate: "makes up a significant portion of", to_object_label: "Atmosphere", to_object_id: "Q8104" }
+- Nitrogen (N2) → makes up a significant portion of → Atmosphere
+Searching for object: Atmosphere
+Found search result Some("Q8104")
+adding new object to potential pool Q8104
+VIS: Potential new topic: TopicPath { from_subject: "Carbon Dioxide (CO2)", via_predicate: "also present in", to_object_label: "Atmosphere", to_object_id: "Q8104" }
+- Carbon Dioxide (CO2) → also present in → Atmosphere
+Searching for object: Earth's surface
+Found search result Some("Q1349417")
+adding new object to potential pool Q1349417
+VIS: Potential new topic: TopicPath { from_subject: "Air Pressure", via_predicate: "exerts force on", to_object_label: "Earth's surface", to_object_id: "Q1349417" }
+- Air Pressure → exerts force on → Earth's surface
+Searching for object: Differences in air pressure
+Found search result None
+- Wind → results from → Differences in air pressure
+Searching for object: in the air
+Found search result Some("Q16157669")
+adding new object to potential pool Q16157669
+VIS: Potential new topic: TopicPath { from_subject: "Humidity", via_predicate: "determines the amount of water vapor", to_object_label: "in the air", to_object_id: "Q16157669" }
+- Humidity → determines the amount of water vapor → in the air
+Searching for object: Earth's atmosphere
+Found search result Some("Q3230")
+adding new object to potential pool Q3230
+VIS: Potential new topic: TopicPath { from_subject: "Temperature Inversion", via_predicate: "a phenomenon where warm air overlays cold air, causing its upward motion to be inhibited", to_object_label: "Earth's atmosphere", to_object_id: "Q3230" }
+- Temperature Inversion → a phenomenon where warm air overlays cold air, causing its upward motion to be inhibited → Earth's atmosphere
+Searching for object: Atmosphere
+Found search result Some("Q8104")
+adding new object to potential pool Q8104
+VIS: Potential new topic: TopicPath { from_subject: "Air Pollution", via_predicate: "results from human activities such as burning fossil fuels and industrial processes", to_object_label: "Atmosphere", to_object_id: "Q8104" }
+- Air Pollution → results from human activities such as burning fossil fuels and industrial processes → Atmosphere
+Searching for object: Earth
+Found search result Some("Q2")
+adding new object to potential pool Q2
+VIS: Potential new topic: TopicPath { from_subject: "Stratosphere", via_predicate: "layer of the atmosphere that contains the ozone layer", to_object_label: "Earth", to_object_id: "Q2" }
+- Stratosphere → layer of the atmosphere that contains the ozone layer → Earth
+Searching for object: Lungs or gills (depending on species)
+Found search result None
+- Breathing → essential for survival of most living organisms, involves exchanging oxygen and carbon dioxide with air → Lungs or gills (depending on species)
+
+Triple Analysis Summary
+Total triples: 10
+Found Subjects:   9 (90.0%)
+Found Predicates: 1 (10.0%)
+Found Objects:    8 (80.0%)
+VIS chosen topic: Some(("Q8104", TopicPath { from_subject: "Carbon Dioxide (CO2)", via_predicate: "also present in", to_object_label: "Atmosphere", to_object_id: "Q8104" }))
+
+Switching to new topic: Q8104 (Atmosphere)
+
+Reasoning Path:Carbon Dioxide (CO2) → also present in → Atmosphere
+
+ Topic ID: Q8104
+
+Retrieved Wikidata Triples:
+
+- http://www.wikidata.org/entity/Q8104 → http://www.wikidata.org/prop/direct/P361 → http://www.wikidata.org/entity/Q6999
+- http://www.wikidata.org/entity/Q8104 → http://www.wikidata.org/prop/direct/P279 → http://www.wikidata.org/entity/Q11432
+- http://www.wikidata.org/entity/Q8104 → http://www.wikidata.org/prop/direct/P1542 → http://www.wikidata.org/entity/Q81809
+- http://www.wikidata.org/entity/Q8104 → http://www.wikidata.org/prop/direct/P1343 → http://www.wikidata.org/entity/Q4532138
+- http://www.wikidata.org/entity/Q8104 → http://www.wikidata.org/prop/direct/P2579 → http://www.wikidata.org/entity/Q5334416
+- http://www.wikidata.org/entity/Q8104 → http://www.wikidata.org/prop/direct/P1343 → http://www.wikidata.org/entity/Q867541
+- http://www.wikidata.org/entity/Q8104 → http://www.wikidata.org/prop/direct/P1889 → http://www.wikidata.org/entity/Q2708714
+- http://www.wikidata.org/entity/Q8104 → http://www.wikidata.org/prop/direct/P1552 → http://www.wikidata.org/entity/Q4072190
+- http://www.wikidata.org/entity/Q8104 → http://www.wikidata.org/prop/direct/P910 → http://www.wikidata.org/entity/Q7110115
+- http://www.wikidata.org/entity/Q8104 → http://www.wikidata.org/prop/direct/P461 → http://www.wikidata.org/entity/Q11436770
+- http://www.wikidata.org/entity/Q8104 → http://www.wikidata.org/prop/direct/P527 → http://www.wikidata.org/entity/Q25571280
+- http://www.wikidata.org/entity/Q8104 → http://www.wikidata.org/prop/direct/P279 → http://www.wikidata.org/entity/Q47495022
+Finished creating "mistral"
+
+Searching Entities for Generated Triples:
+
+Searching for object: Gases (Nitrogen, Oxygen, Carbon Dioxide, etc.)
+Found search result None
+- Atmosphere → comprises of → Gases (Nitrogen, Oxygen, Carbon Dioxide, etc.)
+Searching for object: Planet Earth
+Found search result Some("Q2")
+adding new object to potential pool Q2
+VIS: Potential new topic: TopicPath { from_subject: "Earth's Atmosphere", via_predicate: "surrounds", to_object_label: "Planet Earth", to_object_id: "Q2" }
+- Earth's Atmosphere → surrounds → Planet Earth
+Searching for object: Sea level to Exosphere
+Found search result None
+- Earth's Atmosphere → extends from → Sea level to Exosphere
+Searching for object: Weather patterns and wind direction
+Found search result None
+- Atmospheric Pressure → affects → Weather patterns and wind direction
+Searching for object: Ozone layer
+Found search result Some("Q79995")
+adding new object to potential pool Q79995
+VIS: Potential new topic: TopicPath { from_subject: "Stratosphere (part of the atmosphere)", via_predicate: "contains", to_object_label: "Ozone layer", to_object_id: "Q79995" }
+- Stratosphere (part of the atmosphere) → contains → Ozone layer
+Searching for object: Weather phenomena occur
+Found search result None
+- Troposphere (part of the atmosphere) → where → Weather phenomena occur
+Searching for object: Gases like Carbon Dioxide, Methane, etc.
+Found search result None
+- Greenhouse Effect → is caused by → Gases like Carbon Dioxide, Methane, etc.
+Searching for object: Regulating planetary temperature
+Found search result None
+- Atmosphere → plays a role in → Regulating planetary temperature
+Searching for object: Weather and climate patterns
+Found search result Some("Q63814582")
+adding new object to potential pool Q63814582
+VIS: Potential new topic: TopicPath { from_subject: "Earth's Atmosphere", via_predicate: "undergoes constant changes due to", to_object_label: "Weather and climate patterns", to_object_id: "Q63814582" }
+- Earth's Atmosphere → undergoes constant changes due to → Weather and climate patterns
+
+Triple Analysis Summary
+Total triples: 9
+Found Subjects:   7 (77.8%)
+Found Predicates: 5 (55.6%)
+Found Objects:    3 (33.3%)
+VIS chosen topic: Some(("Q2", TopicPath { from_subject: "Earth's Atmosphere", via_predicate: "surrounds", to_object_label: "Planet Earth", to_object_id: "Q2" }))
+
+Switching to new topic: Q2 (Planet Earth)
+
+Reasoning Path:Earth's Atmosphere → surrounds → Planet Earth
+
+ Topic ID: Q377165
+
+Retrieved Wikidata Triples:
+
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P915 → http://www.wikidata.org/entity/Q15
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P915 → http://www.wikidata.org/entity/Q51
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P2061 → http://www.wikidata.org/entity/Q1383069
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P2747 → http://www.wikidata.org/entity/Q23830576
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P915 → http://www.wikidata.org/entity/Q96
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P915 → http://www.wikidata.org/entity/Q115
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P495 → http://www.wikidata.org/entity/Q145
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P915 → http://www.wikidata.org/entity/Q252
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P915 → http://www.wikidata.org/entity/Q711
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P915 → http://www.wikidata.org/entity/Q717
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P364 → http://www.wikidata.org/entity/Q1860
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P407 → http://www.wikidata.org/entity/Q1860
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P170 → http://www.wikidata.org/entity/Q9531
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P272 → http://www.wikidata.org/entity/Q9531
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P449 → http://www.wikidata.org/entity/Q9531
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P750 → http://www.wikidata.org/entity/Q9531
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P915 → http://www.wikidata.org/entity/Q40285
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P58 → http://www.wikidata.org/entity/Q183337
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P371 → http://www.wikidata.org/entity/Q183337
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P136 → http://www.wikidata.org/entity/Q93204
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P161 → http://www.wikidata.org/entity/Q590183
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P57 → http://www.wikidata.org/entity/Q721429
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P162 → http://www.wikidata.org/entity/Q721429
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P437 → http://www.wikidata.org/entity/Q723685
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P750 → http://www.wikidata.org/entity/Q907311
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P86 → http://www.wikidata.org/entity/Q920167
+- http://www.wikidata.org/entity/Q377165 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q5398426
+Finished creating "mistral"

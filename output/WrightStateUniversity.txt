@@ -1,0 +1,129 @@
+Starting topic was WrightStateUniversity
+
+ Topic ID: Q2002085
+
+Retrieved Wikidata Triples:
+
+- http://www.wikidata.org/entity/Q2002085 → http://www.wikidata.org/prop/direct/P17 → http://www.wikidata.org/entity/Q30
+- http://www.wikidata.org/entity/Q2002085 → http://www.wikidata.org/prop/direct/P131 → http://www.wikidata.org/entity/Q1018317
+- http://www.wikidata.org/entity/Q2002085 → http://www.wikidata.org/prop/direct/P10588 → http://www.wikidata.org/entity/Q3955006
+- http://www.wikidata.org/entity/Q2002085 → http://www.wikidata.org/prop/direct/P3876 → http://www.wikidata.org/entity/Q15095828
+- http://www.wikidata.org/entity/Q2002085 → http://www.wikidata.org/prop/direct/P2643 → http://www.wikidata.org/entity/Q23662768
+- http://www.wikidata.org/entity/Q2002085 → http://www.wikidata.org/prop/direct/P2643 → http://www.wikidata.org/entity/Q23334993
+- http://www.wikidata.org/entity/Q2002085 → http://www.wikidata.org/prop/direct/P2643 → http://www.wikidata.org/entity/Q23622707
+- http://www.wikidata.org/entity/Q2002085 → http://www.wikidata.org/prop/direct/P2643 → http://www.wikidata.org/entity/Q23623483
+- http://www.wikidata.org/entity/Q2002085 → http://www.wikidata.org/prop/direct/P2643 → http://www.wikidata.org/entity/Q23662431
+- http://www.wikidata.org/entity/Q2002085 → http://www.wikidata.org/prop/direct/P2643 → http://www.wikidata.org/entity/Q23662489
+- http://www.wikidata.org/entity/Q2002085 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q62078547
+- http://www.wikidata.org/entity/Q2002085 → http://www.wikidata.org/prop/direct/P463 → http://www.wikidata.org/entity/Q116153205
+- http://www.wikidata.org/entity/Q2002085 → http://www.wikidata.org/prop/direct/P749 → http://www.wikidata.org/entity/Q2331177
+- http://www.wikidata.org/entity/Q2002085 → http://www.wikidata.org/prop/direct/P463 → http://www.wikidata.org/entity/Q2842325
+- http://www.wikidata.org/entity/Q2002085 → http://www.wikidata.org/prop/direct/P463 → http://www.wikidata.org/entity/Q4810015
+- http://www.wikidata.org/entity/Q2002085 → http://www.wikidata.org/prop/direct/P910 → http://www.wikidata.org/entity/Q8954315
+- http://www.wikidata.org/entity/Q2002085 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q23002039
+Finished creating "mistral"
+Skipping date-like object: 1964
+
+Searching Entities for Generated Triples:
+
+Searching for object: Dayton, Ohio
+Found search result Some("Q34739")
+adding new object to potential pool Q34739
+VIS: Potential new topic: TopicPath { from_subject: "WrightStateUniversity", via_predicate: "is_located_in", to_object_label: "Dayton, Ohio", to_object_id: "Q34739" }
+- WrightStateUniversity → is_located_in → Dayton, Ohio
+Searching for object: Public University
+Found search result Some("Q875538")
+adding new object to potential pool Q875538
+VIS: Potential new topic: TopicPath { from_subject: "WrightStateUniversity", via_predicate: "type_of", to_object_label: "Public University", to_object_id: "Q875538" }
+- WrightStateUniversity → type_of → Public University
+Searching for object: National Collegiate Athletic Association (NCAA)
+Found search result None
+- WrightStateUniversity → affiliation → National Collegiate Athletic Association (NCAA)
+Searching for object: Raiders
+Found search result Some("Q324523")
+adding new object to potential pool Q324523
+VIS: Potential new topic: TopicPath { from_subject: "WrightStateUniversity", via_predicate: "mascot", to_object_label: "Raiders", to_object_id: "Q324523" }
+- WrightStateUniversity → mascot → Raiders
+Searching for object: Black and White
+Found search result Some("Q838368")
+adding new object to potential pool Q838368
+VIS: Potential new topic: TopicPath { from_subject: "WrightStateUniversity", via_predicate: "colors", to_object_label: "Black and White", to_object_id: "Q838368" }
+- WrightStateUniversity → colors → Black and White
+Searching for object: 1,864 acres
+Found search result None
+- WrightStateUniversity → campus_size → 1,864 acres
+Searching for object: approximately 12,000 undergraduate students (as of Fall 2019)
+Found search result None
+- WrightStateUniversity → enrollment_number → approximately 12,000 undergraduate students (as of Fall 2019)
+
+Triple Analysis Summary
+Total triples: 7
+Found Subjects:   0 (0.0%)
+Found Predicates: 4 (57.1%)
+Found Objects:    4 (57.1%)
+VIS chosen topic: Some(("Q875538", TopicPath { from_subject: "WrightStateUniversity", via_predicate: "type_of", to_object_label: "Public University", to_object_id: "Q875538" }))
+
+Switching to new topic: Q875538 (Public University)
+
+Reasoning Path:WrightStateUniversity → type_of → Public University
+
+ Topic ID: Q875538
+
+Retrieved Wikidata Triples:
+
+- http://www.wikidata.org/entity/Q875538 → http://www.wikidata.org/prop/direct/P279 → http://www.wikidata.org/entity/Q3918
+- http://www.wikidata.org/entity/Q875538 → http://www.wikidata.org/prop/direct/P1963 → http://www.wikidata.org/entity/P18
+- http://www.wikidata.org/entity/Q875538 → http://www.wikidata.org/prop/direct/P1963 → http://www.wikidata.org/entity/P571
+- http://www.wikidata.org/entity/Q875538 → http://www.wikidata.org/prop/direct/P1963 → http://www.wikidata.org/entity/P94
+- http://www.wikidata.org/entity/Q875538 → http://www.wikidata.org/prop/direct/P1963 → http://www.wikidata.org/entity/P910
+- http://www.wikidata.org/entity/Q875538 → http://www.wikidata.org/prop/direct/P1963 → http://www.wikidata.org/entity/P856
+- http://www.wikidata.org/entity/Q875538 → http://www.wikidata.org/prop/direct/P101 → http://www.wikidata.org/entity/Q136822
+- http://www.wikidata.org/entity/Q875538 → http://www.wikidata.org/prop/direct/P910 → http://www.wikidata.org/entity/Q9533604
+- http://www.wikidata.org/entity/Q875538 → http://www.wikidata.org/prop/direct/P279 → http://www.wikidata.org/entity/Q23002037
+- http://www.wikidata.org/entity/Q875538 → http://www.wikidata.org/prop/direct/P1889 → http://www.wikidata.org/entity/Q104694724
+- http://www.wikidata.org/entity/Q875538 → http://www.wikidata.org/prop/direct/P31 → http://www.wikidata.org/entity/Q130388971
+- http://www.wikidata.org/entity/Q875538 → http://www.wikidata.org/prop/direct/P461 → http://www.wikidata.org/entity/Q902104
+- http://www.wikidata.org/entity/Q875538 → http://www.wikidata.org/prop/direct/P1963 → http://www.wikidata.org/entity/P1075
+- http://www.wikidata.org/entity/Q875538 → http://www.wikidata.org/prop/direct/P1963 → http://www.wikidata.org/entity/P6375
+Finished creating "mistral"
+
+Searching Entities for Generated Triples:
+
+Searching for object: [Year of founding]
+Found search result None
+- Public University → Established in → [Year of founding]
+Searching for object: [City and Country]
+Found search result None
+- Public University → Located in → [City and Country]
+Searching for object: [Founding Institution or Government Body]
+Found search result None
+- Public University → Founded by → [Founding Institution or Government Body]
+Searching for object: [Total number of students enrolled]
+Found search result None
+- Public University → Number of Students → [Total number of students enrolled]
+Searching for object: [Number of faculties/schools]
+Found search result None
+- Public University → Number of Faculties → [Number of faculties/schools]
+Searching for object: [Famous alumnus' name and field of expertise]
+Found search result None
+- Public University → Notable Alumni → [Famous alumnus' name and field of expertise]
+Searching for object: [Number of full-time faculty members]
+Found search result None
+- Public University → Academic Staff → [Number of full-time faculty members]
+Searching for object: [Number of libraries and notable collections]
+Found search result None
+- Public University → Libraries → [Number of libraries and notable collections]
+Searching for object: [Number of campuses and locations]
+Found search result None
+- Public University → Campuses → [Number of campuses and locations]
+Searching for object: [Amount received in research funding per year]
+Found search result None
+- Public University → Research Funding → [Amount received in research funding per year]
+
+Triple Analysis Summary
+Total triples: 10
+Found Subjects:   10 (100.0%)
+Found Predicates: 9 (90.0%)
+Found Objects:    0 (0.0%)
+VIS chosen topic: None
+No new related topics found. Done.
