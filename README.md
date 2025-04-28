@@ -65,4 +65,13 @@ ollama pull mistral
 
 
 ## Docs
-table of content thingy to docs/*
+
+[Knowledge Crawling](./docs/Crawling.md)
+
+[Future Work](./docs/FutureWork.md)
+
+[Prompting Methodology](./docs/PromptingMethodology.md)
+
+[Relevance](./docs/Relevance.md)
+
+[Models](./docs/SupportedModels.md)
