@@ -19,4 +19,5 @@ cat "output/$TOPIC.txt" | grep VIS > tmp_py_input.txt
 
 cd visualization
 source venv/bin/activate
+pip install networkx matplotlib
 python3 src/vis.py ../tmp_py_input.txt
