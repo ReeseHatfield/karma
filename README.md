@@ -70,9 +70,28 @@ ollama pull mistral
 - [How does KARMA crawl knowledge?](./docs/Crawling.md#how-does-karma-crawl-knowledge)
 
 [Future Work](./docs/FutureWork.md)
+- [Configurable Models](./docs/FutureWork.md#configurable-models)
+- [Predicate Verification](./docs/FutureWork.md#predicate-verification)
+- [WikiData Global Verification vs Retrieved Verification](./docs/FutureWork.md#wikidata-global-verification-vs-retrieved-verification)
+- [Usability](./docs/FutureWork.md#usability)
+- [Ranked Predictions](./docs/FutureWork.md#ranked-predictions)
+- [Improved Object Verification](./docs/FutureWork.md#improved-object-verification)
 
 [Prompting Methodology](./docs/PromptingMethodology.md)
+- [Task Exposition](./docs/PromptingMethodology.md#task-exposition)
+- [Definitions](./docs/PromptingMethodology.md#definitions)
+- [Assurance of Relevancy](./docs/PromptingMethodology.md#assurance-of-relevancy)
+- [Example](./docs/PromptingMethodology.md#example)
+- [Generation Request](./docs/PromptingMethodology.md#generation-request)
+- [Final Prompt](./docs/PromptingMethodology.md#final-prompt)
 
 [Relevance](./docs/Relevance.md)
+- [Knowledge Verification](./docs/Relevance.md#knowledge-verification)
+- [Internal Knowledge Crawling](./docs/Relevance.md#internal-knowledge-crawling)
 
 [Models](./docs/SupportedModels.md)
+- [Why was Mistral Chosen for KARMA?](./docs/SupportedModels.md#why-was-mistral-chosen-for-karma)
+  - [Deepseek](./docs/SupportedModels.md#deepseek)
+  - [LlammaThree](./docs/SupportedModels.md#llammathree)
+  - [GPT2](./docs/SupportedModels.md#gpt2)
+  - [Triplex](./docs/SupportedModels.md#triplex)
