@@ -25,4 +25,4 @@ let query = wikidata::KgSPARQLQuery::new(format!(
 If any of the generated objects are within the set of entities retrieved from the SPARQL query, they become added to the pool of potential new topics to crawl. This treats WikiData as a ground truth for knowledge. This idea of verifying generated knowledge with an external knowledge graph can be more broadly applied to help curb LLM hallucinations.
 
 ## Internal Knowledge Crawling
-KARMA traverses knowledge thru
+KARMA traverses knowledge by using a fresh context window of a language model. Every time a new (verifiably true) topic is chosen, a fresh context window is created, and more tuples are generated. This process continues until no verifiably true facts are left to explore. This is relevant because it gives some insight into the explainabilty of language models. Crawling data in this fashion increases the transparency behind how the model conceptualizes facts.
