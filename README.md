@@ -64,7 +64,8 @@ ollama pull mistral
 ```
 
 
-## Docs
+## Documentation
+This serves as a table of contents for much of the information related to KARMA.
 
 [Knowledge Crawling](./docs/Crawling.md)
 - [How does KARMA crawl knowledge?](./docs/Crawling.md#how-does-karma-crawl-knowledge)
