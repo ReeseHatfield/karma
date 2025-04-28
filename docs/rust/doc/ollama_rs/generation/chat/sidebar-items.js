@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["MessageRole"],"mod":["request"],"struct":["ChatMessage","ChatMessageFinalResponseData","ChatMessageResponse"]};

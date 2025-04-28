@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"derive":["JsonSchema"],"enum":["FormatType","KeepAlive","TimeUnit"],"macro":["schema_for"],"struct":["JsonStructure"],"trait":["JsonSchema"]};

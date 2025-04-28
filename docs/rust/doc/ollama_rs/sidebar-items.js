@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["coordinator","error","generation","history","models"],"struct":["Ollama"],"trait":["IntoUrl","IntoUrlSealed"]};

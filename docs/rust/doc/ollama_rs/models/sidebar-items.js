@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["copy","create","delete","list_local","pull","push","show_info"],"struct":["LocalModel","ModelInfo"]};

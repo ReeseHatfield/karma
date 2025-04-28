@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["generate_prompt","get_wikidata_id","main","parse_triples_from_output","print_statistics","process_triples","search_entity"],"mod":["llm","types","wikidata"],"struct":["GenTriple"]};

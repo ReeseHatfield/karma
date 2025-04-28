@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["OllamaError","ToolCallError"],"struct":["InternalOllamaError"],"type":["Result"]};
