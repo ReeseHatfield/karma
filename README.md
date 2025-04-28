@@ -67,7 +67,7 @@ ollama pull mistral
 ## Docs
 
 [Knowledge Crawling](./docs/Crawling.md)
-- [How does KARMA crawl knowledge?] (./docs/Crawling.md#how-does-karma-crawl-knowledge)
+- [How does KARMA crawl knowledge?](./docs/Crawling.md#how-does-karma-crawl-knowledge)
 
 [Future Work](./docs/FutureWork.md)
 
